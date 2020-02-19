@@ -1,7 +1,7 @@
 # Credicxo-Assignment
 Classification of Musk and Non-musk compounds
 
-# CREDICXO ASSIGNMENT REPORT
+# REPORT
 # Abstract
 The data provided was mainly numerical (the features). The 166 feature columns were chosen as inputs to a Multilayer Perceptron Model built using Keras. Certain pre-processing steps were performed before feeding the data into the model. Highly correlated features were dropped using two methods – manual selection considering correlation values and using Principal Component Analysis (PCA). Hence, the conclusion is presented in the form of a comparison which indicates that a comparable performance was obtained using both the methods even when the number of PCA selected features is less than manually selected ones. Accuracy in both the cases comes out to be around 99%.
 
